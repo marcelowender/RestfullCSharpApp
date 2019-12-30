@@ -1,5 +1,6 @@
 bin/
 roslyn/
 obj/
+obj/Debug/
 .vs/
 packages/
