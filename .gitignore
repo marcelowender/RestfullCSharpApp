@@ -1,1 +1,5 @@
 bin/
+roslyn/
+obj/
+.vs/
+packages/
